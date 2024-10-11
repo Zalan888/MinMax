@@ -1,0 +1,7 @@
+C:\Users\witmannz\gitWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\witmannz\gitWork\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\witmannz\gitWork\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\witmannz\gitWork\ConsoleApp1\obj\Debug\minmax.csproj.AssemblyReference.cache
+C:\Users\witmannz\gitWork\ConsoleApp1\obj\Debug\minmax.csproj.CoreCompileInputs.cache
+C:\Users\witmannz\gitWork\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\witmannz\gitWork\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
